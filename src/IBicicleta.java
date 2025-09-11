@@ -1,3 +1,2 @@
-public interface IBicicleta {
-    public String tipo();
+public class IBicicleta {
 }
